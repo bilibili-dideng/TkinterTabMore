@@ -1,0 +1,1 @@
+rootProject.name = "MorePyCharmTkinterTab International Version"
