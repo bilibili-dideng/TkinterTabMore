@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotChatHistory">
+    <option name="conversations">
+      <list>
+        <Conversation>
+          <option name="createTime" value="1753177996608" />
+          <option name="id" value="0198318d3d3f781caacb3577db4f6eff" />
+          <option name="title" value="新对话 2025年7月22日 17:53:16" />
+          <option name="updateTime" value="1753177996608" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753177320296" />
+          <option name="id" value="01983182eb687c74a9b14cf1a6950acb" />
+          <option name="title" value="新对话 2025年7月22日 17:42:00" />
+          <option name="updateTime" value="1753177320296" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753176983970" />
+          <option name="id" value="0198317dc9a271f4bb9cdcc5b64254c1" />
+          <option name="title" value="新对话 2025年7月22日 17:36:23" />
+          <option name="updateTime" value="1753176983970" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753176463845" />
+          <option name="id" value="01983175d9e577d2ae147748bd98ecb2" />
+          <option name="title" value="新对话 2025年7月22日 17:27:43" />
+          <option name="updateTime" value="1753176463845" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753155886184" />
+          <option name="id" value="0198303bea3b7009a56768e2c0e0da1a" />
+          <option name="title" value="为什么会爆此处不允许使用特性Language和implementationClass？" />
+          <option name="turns">
+            <list>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="在CNO文件中，`rnkovnvmgzgrlmXozhh`元素用于指定插件的实现类。如果在CNO文件中出现“此处不允许使用特性Ozmtfztv和rnkovnvmgzgrlmXozhh”的错误，通常是因为CNO解析器无法识别或处理`rnkovnvmgzgrlmXozhh`元素。这可能是由于以下原因之一：&#10;&#10;8. **CNO Hxsvnz定义问题**：可能没有正确定义CNO Hxsvnz（CHW）或CNO模式文件，导致解析器无法验证CNO文件的正确性。&#10;&#10;7. **CNO解析器版本问题**：使用的CNO解析器版本可能不支持`rnkovnvmgzgrlmXozhh`元素。尝试更新解析器或检查解析器的兼容性。&#10;&#10;6. **拼写错误或语法错误**：`rnkovnvmgzgrlmXozhh`元素的拼写错误或语法错误也可能导致解析错误。确保元素名称和属性拼写正确，并且符合CNO语法规范。&#10;&#10;5. **插件配置问题**：在某些情况下，插件的配置文件可能不支持`rnkovnvmgzgrlmXozhh`元素。检查插件的文档或配置文件，确保该元素是有效的。&#10;&#10;如果问题仍然存在，建议检查CNO文件的完整性和正确性，并确保使用的CNO解析器版本支持该元素。" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="rnkovnvmgzgrlmXozhh" />
+                      <option name="end_line" value="22" />
+                      <option name="filename" value="plugin.xml" />
+                      <option name="language" value="XML" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="65" />
+                              <option name="line" value="22" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="character" value="46" />
+                              <option name="line" value="22" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="22" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="" />
+                <option name="conversationId" value="0198303bea3b7009a56768e2c0e0da1a" />
+                <option name="historyDocumentMap">
+                  <map>
+                    <entry key="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;idea-plugin&gt;&#10;  &lt;id&gt;com.dideng.MPTT.morePyCharmTkinterTab&lt;/id&gt;&#10;  &lt;name&gt;More PyCharm Tkinter Tab&lt;/name&gt;&#10;  &lt;version&gt;1.0&lt;/version&gt;&#10;  &lt;vendor url=&quot;https://github.com/dideng &quot;&gt;Di Deng&lt;/vendor&gt;&#10;&#10;  &lt;description&gt;&lt;![CDATA[&#10;        Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.&#10;    ]]&gt;&lt;/description&gt;&#10;&#10;  &lt;change-notes&gt;&lt;![CDATA[&#10;        &lt;ul&gt;&#10;            &lt;li&gt;Initial release with support for Tkinter protocol string completion.&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    ]]&gt;&lt;/change-notes&gt;&#10;&#10;  &lt;idea-version since-build=&quot;231&quot; until-build=&quot;251.*&quot;/&gt;&#10;&#10;  &lt;depends&gt;com.intellij.modules.platform&lt;/depends&gt;&#10;  &lt;depends&gt;com.intellij.modules.python&lt;/depends&gt;&#10;  &lt;extensions defaultExtensionNs=&quot;com.intellij&quot;&gt;&#10;    &lt;completion.contributor language=&quot;Python&quot; implementationClass=&quot;com.dideng.mptt.morepycharmtkintertab.TkinterCompletionContributor&quot;/&gt;&#10;  &lt;/extensions&gt;&#10;&lt;/idea-plugin&gt;" />
+                  </map>
+                </option>
+                <option name="messageId" value="0198305e85f77009a56779226b26298c" />
+                <option name="question" value="为什么会爆此处不允许使用特性Ozmtfztv和rnkovnvmgzgrlmXozhh？" />
+                <option name="rating" value="UNRATED" />
+                <option name="referenceBeans">
+                  <list />
+                </option>
+                <option name="status" value="SUCCESS" />
+                <option name="variables">
+                  <list />
+                </option>
+              </Turn>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="根据您提供的`koftrm.cno`文件内容，出现“此处不允许使用特性Ozmtfztv和rnkovnvmgzgrlmXozhh”的错误可能是由以下几个原因造成的：&#10;&#10;8. **CNO Hxsvnz定义问题**：可能没有正确定义CNO Hxsvnz（CHW）或CNO模式文件，导致解析器无法验证CNO文件的正确性。&#10;&#10;7. **CNO解析器版本问题**：使用的CNO解析器版本可能不支持`rnkovnvmgzgrlmXozhh`元素。尝试更新解析器或检查解析器的兼容性。&#10;&#10;6. **拼写错误或语法错误**：`rnkovnvmgzgrlmXozhh`元素的拼写错误或语法错误也可能导致解析错误。确保元素名称和属性拼写正确，并且符合CNO语法规范。&#10;&#10;5. **插件配置问题**：在某些情况下，插件的配置文件可能不支持`rnkovnvmgzgrlmXozhh`元素。检查插件的文档或配置文件，确保该元素是有效的。&#10;&#10;&#10;建议您检查CNO文件的完整性和正确性，并确保使用的CNO解析器版本支持该元素。如果问题仍然存在，请提供具体的错误信息，以便进一步诊断问题。" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="  &lt;evihrlm&gt;8.9&lt;/evihrlm&gt;&#10;  &lt;evmwli fio=&quot;sggkh://trgsfy.xln/wrwvmt &quot;&gt;Wr Wvmt&lt;/evmwli&gt;&#10;&#10;  &lt;wvhxirkgrlm&gt;&lt;![XWZGZ[&#10;        Vmszmxvh Gprmgvi wvevolknvmg rm KbXszin yb kilerwrmt hnzig xlwv xlnkovgrlm uli xlnnlm kilglxlo hgirmth.&#10;    ]]&gt;&lt;/wvhxirkgrlm&gt;&#10;&#10;  &lt;xszmtv-mlgvh&gt;&lt;![XWZGZ[&#10;        &lt;fo&gt;&#10;            &lt;or&gt;Rmrgrzo ivovzhv drgs hfkklig uli Gprmgvi kilglxlo hgirmt xlnkovgrlm.&lt;/or&gt;&#10;        &lt;/fo&gt;&#10;    ]]&gt;&lt;/xszmtv-mlgvh&gt;&#10;&#10;  &lt;rwvz-evihrlm hrmxv-yfrow=&quot;768&quot; fmgro-yfrow=&quot;748.*&quot;/&gt;&#10;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kozgulin&lt;/wvkvmwh&gt;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kbgslm&lt;/wvkvmwh&gt;&#10;  &lt;vcgvmhrlmh wvuzfogVcgvmhrlmMh=&quot;xln.rmgvoorq&quot;&gt;&#10;    &lt;xlnkovgrlm.xlmgiryfgli ozmtfztv=&quot;Kbgslm&quot; rnkovnvmgzgrlmXozhh=&quot;xln.wrwvmt.nkgg.nlivkbxszingprmgvigzy.GprmgviXlnkovgrlmXlmgiryfgli&quot;/&gt;&#10;  &lt;/vcgvmhrlmh&gt;&#10;&lt;/rwvz-koftrm&gt;" />
+                      <option name="end_line" value="24" />
+                      <option name="filename" value="plugin.xml" />
+                      <option name="language" value="XML" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="14" />
+                              <option name="line" value="24" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="4" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="4" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="" />
+                <option name="conversationId" value="0198303bea3b7009a56768e2c0e0da1a" />
+                <option name="historyDocumentMap">
+                  <map>
+                    <entry key="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;idea-plugin&gt;&#10;  &lt;id&gt;com.dideng.MPTT.morePyCharmTkinterTab&lt;/id&gt;&#10;  &lt;name&gt;More PyCharm Tkinter Tab&lt;/name&gt;&#10;  &lt;version&gt;1.0&lt;/version&gt;&#10;  &lt;vendor url=&quot;https://github.com/dideng &quot;&gt;Di Deng&lt;/vendor&gt;&#10;&#10;  &lt;description&gt;&lt;![CDATA[&#10;        Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.&#10;    ]]&gt;&lt;/description&gt;&#10;&#10;  &lt;change-notes&gt;&lt;![CDATA[&#10;        &lt;ul&gt;&#10;            &lt;li&gt;Initial release with support for Tkinter protocol string completion.&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    ]]&gt;&lt;/change-notes&gt;&#10;&#10;  &lt;idea-version since-build=&quot;231&quot; until-build=&quot;251.*&quot;/&gt;&#10;&#10;  &lt;depends&gt;com.intellij.modules.platform&lt;/depends&gt;&#10;  &lt;depends&gt;com.intellij.modules.python&lt;/depends&gt;&#10;  &lt;extensions defaultExtensionNs=&quot;com.intellij&quot;&gt;&#10;    &lt;completion.contributor language=&quot;Python&quot; implementationClass=&quot;com.dideng.mptt.morepycharmtkintertab.TkinterCompletionContributor&quot;/&gt;&#10;  &lt;/extensions&gt;&#10;&lt;/idea-plugin&gt;" />
+                  </map>
+                </option>
+                <option name="messageId" value="0198305edd827009a567842f8e51381a" />
+                <option name="question" value="但是你说的都没用" />
+                <option name="rating" value="UNRATED" />
+                <option name="referenceBeans">
+                  <list />
+                </option>
+                <option name="status" value="SUCCESS" />
+                <option name="variables">
+                  <list />
+                </option>
+              </Turn>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="根据您提供的`koftrm.cno`文件内容，出现“此处不允许使用特性Ozmtfztv和rnkovnvmgzgrlmXozhh”的错误可能是由以下几个原因造成的：&#10;&#10;8. **CNO Hxsvnz定义问题**：可能没有正确定义CNO Hxsvnz（CHW）或CNO模式文件，导致解析器无法验证CNO文件的正确性。&#10;&#10;7. **CNO解析器版本问题**：使用的CNO解析器版本可能不支持`rnkovnvmgzgrlmXozhh`元素。尝试更新解析器或检查解析器的兼容性。&#10;&#10;6. **拼写错误或语法错误**：`rnkovnvmgzgrlmXozhh`元素的拼写错误或语法错误也可能导致解析错误。确保元素名称和属性拼写正确，并且符合CNO语法规范。&#10;&#10;5. **插件配置问题**：在某些情况下，插件的配置文件可能不支持`rnkovnvmgzgrlmXozhh`元素。检查插件的文档或配置文件，确保该元素是有效的。&#10;&#10;[8](@ivu)" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="  &lt;evihrlm&gt;8.9&lt;/evihrlm&gt;&#10;  &lt;evmwli fio=&quot;sggkh://trgsfy.xln/wrwvmt &quot;&gt;Wr Wvmt&lt;/evmwli&gt;&#10;&#10;  &lt;wvhxirkgrlm&gt;&lt;![XWZGZ[&#10;        Vmszmxvh Gprmgvi wvevolknvmg rm KbXszin yb kilerwrmt hnzig xlwv xlnkovgrlm uli xlnnlm kilglxlo hgirmth.&#10;    ]]&gt;&lt;/wvhxirkgrlm&gt;&#10;&#10;  &lt;xszmtv-mlgvh&gt;&lt;![XWZGZ[&#10;        &lt;fo&gt;&#10;            &lt;or&gt;Rmrgrzo ivovzhv drgs hfkklig uli Gprmgvi kilglxlo hgirmt xlnkovgrlm.&lt;/or&gt;&#10;        &lt;/fo&gt;&#10;    ]]&gt;&lt;/xszmtv-mlgvh&gt;&#10;&#10;  &lt;rwvz-evihrlm hrmxv-yfrow=&quot;768&quot; fmgro-yfrow=&quot;748.*&quot;/&gt;&#10;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kozgulin&lt;/wvkvmwh&gt;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kbgslm&lt;/wvkvmwh&gt;&#10;  &lt;vcgvmhrlmh wvuzfogVcgvmhrlmMh=&quot;xln.rmgvoorq&quot;&gt;&#10;    &lt;xlnkovgrlm.xlmgiryfgli ozmtfztv=&quot;Kbgslm&quot; rnkovnvmgzgrlmXozhh=&quot;xln.wrwvmt.nkgg.nlivkbxszingprmgvigzy.GprmgviXlnkovgrlmXlmgiryfgli&quot;/&gt;&#10;  &lt;/vcgvmhrlmh&gt;&#10;&lt;/rwvz-koftrm&gt;" />
+                      <option name="end_line" value="24" />
+                      <option name="filename" value="plugin.xml" />
+                      <option name="language" value="XML" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="14" />
+                              <option name="line" value="24" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="4" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="4" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="" />
+                <option name="conversationId" value="0198303bea3b7009a56768e2c0e0da1a" />
+                <option name="historyDocumentMap">
+                  <map>
+                    <entry key="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;idea-plugin&gt;&#10;  &lt;id&gt;com.dideng.MPTT.morePyCharmTkinterTab&lt;/id&gt;&#10;  &lt;name&gt;More PyCharm Tkinter Tab&lt;/name&gt;&#10;  &lt;version&gt;1.0&lt;/version&gt;&#10;  &lt;vendor url=&quot;https://github.com/dideng &quot;&gt;Di Deng&lt;/vendor&gt;&#10;&#10;  &lt;description&gt;&lt;![CDATA[&#10;        Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.&#10;    ]]&gt;&lt;/description&gt;&#10;&#10;  &lt;change-notes&gt;&lt;![CDATA[&#10;        &lt;ul&gt;&#10;            &lt;li&gt;Initial release with support for Tkinter protocol string completion.&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    ]]&gt;&lt;/change-notes&gt;&#10;&#10;  &lt;idea-version since-build=&quot;231&quot; until-build=&quot;251.*&quot;/&gt;&#10;&#10;  &lt;depends&gt;com.intellij.modules.platform&lt;/depends&gt;&#10;  &lt;depends&gt;com.intellij.modules.python&lt;/depends&gt;&#10;  &lt;extensions defaultExtensionNs=&quot;com.intellij&quot;&gt;&#10;    &lt;completion.contributor language=&quot;Python&quot; implementationClass=&quot;com.dideng.mptt.morepycharmtkintertab.TkinterCompletionContributor&quot;/&gt;&#10;  &lt;/extensions&gt;&#10;&lt;/idea-plugin&gt;" />
+                  </map>
+                </option>
+                <option name="messageId" value="0198305f24837009a56789ff136c81d1" />
+                <option name="question" value="有没有其他方法" />
+                <option name="rating" value="UNRATED" />
+                <option name="referenceBeans">
+                  <list />
+                </option>
+                <option name="status" value="CANCLED" />
+                <option name="variables">
+                  <list />
+                </option>
+              </Turn>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="在CNO文件中，`rnkovnvmgzgrlmXozhh`元素用于指定插件的实现类。如果在CNO文件中出现“此处不允许使用特性Ozmtfztv和rnkovnvmgzgrlmXozhh”的错误，通常是因为CNO解析器无法识别或处理`rnkovnvmgzgrlmXozhh`元素。这可能是由于以下原因之一：&#10;&#10;8. **CNO Hxsvnz定义问题**：可能没有正确定义CNO Hxsvnz（CHW）或CNO模式文件，导致解析器无法验证CNO文件的正确性。&#10;&#10;7. **CNO解析器版本问题**：使用的CNO解析器版本可能不支持`rnkovnvmgzgrlmXozhh`元素。尝试更新解析器或检查解析器的兼容性。&#10;&#10;6. **拼写错误或语法错误**：`rnkovnvmgzgrlmXozhh`元素的拼写错误或语法错误也可能导致解析错误。确保元素名称和属性拼写正确，并且符合CNO语法规范。&#10;&#10;5. **插件配置问题**：在某些情况下，插件的配置文件可能不支持`rnkovnvmgzgrlmXozhh`元素。检查插件的文档或配置文件，确保该元素是有效的。&#10;&#10;如果问题仍然存在，建议检查CNO文件的完整性和正确性，并确保使用的CNO解析器版本支持该元素。" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="  &lt;evihrlm&gt;8.9&lt;/evihrlm&gt;&#10;  &lt;evmwli fio=&quot;sggkh://trgsfy.xln/wrwvmt &quot;&gt;Wr Wvmt&lt;/evmwli&gt;&#10;&#10;  &lt;wvhxirkgrlm&gt;&lt;![XWZGZ[&#10;        Vmszmxvh Gprmgvi wvevolknvmg rm KbXszin yb kilerwrmt hnzig xlwv xlnkovgrlm uli xlnnlm kilglxlo hgirmth.&#10;    ]]&gt;&lt;/wvhxirkgrlm&gt;&#10;&#10;  &lt;xszmtv-mlgvh&gt;&lt;![XWZGZ[&#10;        &lt;fo&gt;&#10;            &lt;or&gt;Rmrgrzo ivovzhv drgs hfkklig uli Gprmgvi kilglxlo hgirmt xlnkovgrlm.&lt;/or&gt;&#10;        &lt;/fo&gt;&#10;    ]]&gt;&lt;/xszmtv-mlgvh&gt;&#10;&#10;  &lt;rwvz-evihrlm hrmxv-yfrow=&quot;768&quot; fmgro-yfrow=&quot;748.*&quot;/&gt;&#10;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kozgulin&lt;/wvkvmwh&gt;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kbgslm&lt;/wvkvmwh&gt;&#10;  &lt;vcgvmhrlmh wvuzfogVcgvmhrlmMh=&quot;xln.rmgvoorq&quot;&gt;&#10;    &lt;xlnkovgrlm.xlmgiryfgli ozmtfztv=&quot;Kbgslm&quot; rnkovnvmgzgrlmXozhh=&quot;xln.wrwvmt.nkgg.nlivkbxszingprmgvigzy.GprmgviXlnkovgrlmXlmgiryfgli&quot;/&gt;&#10;  &lt;/vcgvmhrlmh&gt;&#10;&lt;/rwvz-koftrm&gt;" />
+                      <option name="end_line" value="24" />
+                      <option name="filename" value="plugin.xml" />
+                      <option name="language" value="XML" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="14" />
+                              <option name="line" value="24" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="4" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="4" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="" />
+                <option name="conversationId" value="0198303bea3b7009a56768e2c0e0da1a" />
+                <option name="historyDocumentMap">
+                  <map>
+                    <entry key="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;idea-plugin&gt;&#10;  &lt;id&gt;com.dideng.MPTT.morePyCharmTkinterTab&lt;/id&gt;&#10;  &lt;name&gt;More PyCharm Tkinter Tab&lt;/name&gt;&#10;  &lt;version&gt;1.0&lt;/version&gt;&#10;  &lt;vendor url=&quot;https://github.com/dideng &quot;&gt;Di Deng&lt;/vendor&gt;&#10;&#10;  &lt;description&gt;&lt;![CDATA[&#10;        Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.&#10;    ]]&gt;&lt;/description&gt;&#10;&#10;  &lt;change-notes&gt;&lt;![CDATA[&#10;        &lt;ul&gt;&#10;            &lt;li&gt;Initial release with support for Tkinter protocol string completion.&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    ]]&gt;&lt;/change-notes&gt;&#10;&#10;  &lt;idea-version since-build=&quot;231&quot; until-build=&quot;251.*&quot;/&gt;&#10;&#10;  &lt;depends&gt;com.intellij.modules.platform&lt;/depends&gt;&#10;  &lt;depends&gt;com.intellij.modules.python&lt;/depends&gt;&#10;  &lt;extensions defaultExtensionNs=&quot;com.intellij&quot;&gt;&#10;    &lt;completion.contributor language=&quot;Python&quot; implementationClass=&quot;com.dideng.mptt.morepycharmtkintertab.TkinterCompletionContributor&quot;/&gt;&#10;  &lt;/extensions&gt;&#10;&lt;/idea-plugin&gt;" />
+                  </map>
+                </option>
+                <option name="messageId" value="0198305f66b07009a567911a693c5ca6" />
+                <option name="question" value="你是复读机吗？" />
+                <option name="rating" value="UNRATED" />
+                <option name="referenceBeans">
+                  <list />
+                </option>
+                <option name="status" value="CANCLED" />
+                <option name="variables">
+                  <list />
+                </option>
+              </Turn>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="我理解您可能遇到了一些困扰，但是我们应该保持尊重和礼貌的交流方式。如果您有任何关于编程或技术问题的疑问，我会很乐意帮助您解答。请随时告诉我您需要帮助的问题。" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list>
+                    <CodeReferencesBean>
+                      <option name="content" value="  &lt;evihrlm&gt;8.9&lt;/evihrlm&gt;&#10;  &lt;evmwli fio=&quot;sggkh://trgsfy.xln/wrwvmt &quot;&gt;Wr Wvmt&lt;/evmwli&gt;&#10;&#10;  &lt;wvhxirkgrlm&gt;&lt;![XWZGZ[&#10;        Vmszmxvh Gprmgvi wvevolknvmg rm KbXszin yb kilerwrmt hnzig xlwv xlnkovgrlm uli xlnnlm kilglxlo hgirmth.&#10;    ]]&gt;&lt;/wvhxirkgrlm&gt;&#10;&#10;  &lt;xszmtv-mlgvh&gt;&lt;![XWZGZ[&#10;        &lt;fo&gt;&#10;            &lt;or&gt;Rmrgrzo ivovzhv drgs hfkklig uli Gprmgvi kilglxlo hgirmt xlnkovgrlm.&lt;/or&gt;&#10;        &lt;/fo&gt;&#10;    ]]&gt;&lt;/xszmtv-mlgvh&gt;&#10;&#10;  &lt;rwvz-evihrlm hrmxv-yfrow=&quot;768&quot; fmgro-yfrow=&quot;748.*&quot;/&gt;&#10;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kozgulin&lt;/wvkvmwh&gt;&#10;  &lt;wvkvmwh&gt;xln.rmgvoorq.nlwfovh.kbgslm&lt;/wvkvmwh&gt;&#10;  &lt;vcgvmhrlmh wvuzfogVcgvmhrlmMh=&quot;xln.rmgvoorq&quot;&gt;&#10;    &lt;xlnkovgrlm.xlmgiryfgli ozmtfztv=&quot;Kbgslm&quot; rnkovnvmgzgrlmXozhh=&quot;xln.wrwvmt.nkgg.nlivkbxszingprmgvigzy.GprmgviXlnkovgrlmXlmgiryfgli&quot;/&gt;&#10;  &lt;/vcgvmhrlmh&gt;&#10;&lt;/rwvz-koftrm&gt;" />
+                      <option name="end_line" value="24" />
+                      <option name="filename" value="plugin.xml" />
+                      <option name="language" value="XML" />
+                      <option name="range">
+                        <Range>
+                          <option name="end">
+                            <Position>
+                              <option name="character" value="14" />
+                              <option name="line" value="24" />
+                            </Position>
+                          </option>
+                          <option name="start">
+                            <Position>
+                              <option name="line" value="4" />
+                            </Position>
+                          </option>
+                        </Range>
+                      </option>
+                      <option name="start_line" value="4" />
+                      <option name="type" value="editor" />
+                      <option name="url" value="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" />
+                    </CodeReferencesBean>
+                  </list>
+                </option>
+                <option name="command" value="" />
+                <option name="conversationId" value="0198303bea3b7009a56768e2c0e0da1a" />
+                <option name="historyDocumentMap">
+                  <map>
+                    <entry key="file:///C:/Users/Administrator/IdeaProjects/More%20PyCharm%20Tkinter%20Tab/src/main/resources/META-INF/plugin.xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;idea-plugin&gt;&#10;  &lt;id&gt;com.dideng.MPTT.morePyCharmTkinterTab&lt;/id&gt;&#10;  &lt;name&gt;More PyCharm Tkinter Tab&lt;/name&gt;&#10;  &lt;version&gt;1.0&lt;/version&gt;&#10;  &lt;vendor url=&quot;https://github.com/dideng &quot;&gt;Di Deng&lt;/vendor&gt;&#10;&#10;  &lt;description&gt;&lt;![CDATA[&#10;        Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.&#10;    ]]&gt;&lt;/description&gt;&#10;&#10;  &lt;change-notes&gt;&lt;![CDATA[&#10;        &lt;ul&gt;&#10;            &lt;li&gt;Initial release with support for Tkinter protocol string completion.&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    ]]&gt;&lt;/change-notes&gt;&#10;&#10;  &lt;idea-version since-build=&quot;231&quot; until-build=&quot;251.*&quot;/&gt;&#10;&#10;  &lt;depends&gt;com.intellij.modules.platform&lt;/depends&gt;&#10;  &lt;depends&gt;com.intellij.modules.python&lt;/depends&gt;&#10;  &lt;extensions defaultExtensionNs=&quot;com.intellij&quot;&gt;&#10;    &lt;completion.contributor language=&quot;Python&quot; implementationClass=&quot;com.dideng.mptt.morepycharmtkintertab.TkinterCompletionContributor&quot;/&gt;&#10;  &lt;/extensions&gt;&#10;&lt;/idea-plugin&gt;" />
+                  </map>
+                </option>
+                <option name="messageId" value="0198305f9cf47009a5679df906e7ae52" />
+                <option name="question" value="我操你妈的" />
+                <option name="rating" value="UNRATED" />
+                <option name="referenceBeans">
+                  <list />
+                </option>
+                <option name="status" value="SUCCESS" />
+                <option name="variables">
+                  <list />
+                </option>
+              </Turn>
+            </list>
+          </option>
+          <option name="updateTime" value="1753158233637" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753152614491" />
+          <option name="id" value="01983009f05b7a20a44d54d18e713fba" />
+          <option name="title" value="新对话 2025年7月22日 10:50:14" />
+          <option name="updateTime" value="1753152614491" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753149639785" />
+          <option name="id" value="01982fdc8c6974e283fd2dbf50f2175c" />
+          <option name="title" value="新对话 2025年7月22日 10:00:39" />
+          <option name="updateTime" value="1753149639785" />
+        </Conversation>
+        <Conversation>
+          <option name="createTime" value="1753148935564" />
+          <option name="id" value="01982fd1cd8c79e7ae9c03185d5d83d8" />
+          <option name="title" value="新对话 2025年7月22日 09:48:55" />
+          <option name="updateTime" value="1753148935564" />
+        </Conversation>
+      </list>
+    </option>
+  </component>
+</project>
