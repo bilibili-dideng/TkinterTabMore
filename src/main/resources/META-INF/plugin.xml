@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idea-plugin>
   <id>com.dideng.MPTT.MorePyCharmTkinterTab</id>
-  <name>More PyCharm Tkinter Tab</name>
+  <name>Tkinter Tab More</name>
   <version>1.0</version>
   <vendor url="https://github.com/bilibili-dideng ">dideng</vendor>
+
+  <resource-bundle>messages.Bundle</resource-bundle>
 
   <description><![CDATA[
         Enhances Tkinter development in PyCharm by providing smart code completion for common protocol strings.

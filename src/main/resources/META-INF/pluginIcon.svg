@@ -6,8 +6,6 @@
 
     <!-- 添加说明文字 ": Tab More" -->
     <text x="20" y="30" text-anchor="middle" font-size="5" font-family="Arial, sans-serif" fill="#cccccc"> Tab More</text>
-    <text x="20" y="40" text-anchor="middle" font-size="4" font-family="Arial, sans-serif" fill="#cccccc"> International Version</text>
-
     <defs>
         <linearGradient id="paint0_linear" x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345" gradientUnits="userSpaceOnUse">
             <stop offset="0.15937" stop-color="#3BEA62"/>
